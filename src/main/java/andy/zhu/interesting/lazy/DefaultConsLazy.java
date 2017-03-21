@@ -1,4 +1,4 @@
-package andy.zhu.interesting;
+package andy.zhu.interesting.lazy;
 
 import java.lang.reflect.ParameterizedType;
 

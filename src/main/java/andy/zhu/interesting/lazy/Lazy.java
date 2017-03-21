@@ -1,4 +1,4 @@
-package andy.zhu.interesting;
+package andy.zhu.interesting.lazy;
 
 /**
  * Created by zhujinchang on 16-10-8.
